@@ -1,8 +1,8 @@
-import { useState } from 'react'
+// import { useState } from 'react'
 import NavLink from './NavLink'
 import NavTitle from './NavTitle'
-import { IoMenuOutline } from "react-icons/io5"
-import { IoCloseOutline } from "react-icons/io5"
+// import { IoMenuOutline } from "react-icons/io5"
+// import { IoCloseOutline } from "react-icons/io5"
 
 function Navbar() {
 
