@@ -409,7 +409,7 @@ footer .p-container {
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1000px) {
 
     .mobile-button {
         display: grid;
