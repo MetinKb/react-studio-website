@@ -6,7 +6,7 @@ import { IoCloseOutline } from "react-icons/io5"
 
 function Navbar() {
 
-    const [isMobileOpen, setIsMovileOpen] = useState(false)
+    // const [isMobileOpen, setIsMovileOpen] = useState(false)
 
     return (
         <header>
@@ -19,9 +19,9 @@ function Navbar() {
                     <NavLink prop="team" />
                     <NavLink prop="contact" />
                 </ul >
-                <button className='mobile-button' >
+                {/* <button className='mobile-button' >
                     {isMobileOpen ? <IoCloseOutline /> : <IoMenuOutline />}
-                </button>
+                </button> */}
             </nav >
         </header>
     )
