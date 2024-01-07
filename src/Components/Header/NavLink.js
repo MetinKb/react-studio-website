@@ -1,9 +1,9 @@
-function NavLink({ prop }) {
-    return (
-        <li>
-            <a className="nav-link" href={prop}>{prop}</a>
-        </li>
+function NavLink({ prop, click }) {
 
+    return (
+        <li onClick={click}>
+            <a className="nav-link" href={`#${prop}`}>{prop}</a>
+        </li>
     )
 }
 

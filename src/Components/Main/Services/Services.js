@@ -3,7 +3,7 @@ import ServicesArticles from "Components/Main/Services/ServicesArticles"
 
 function Services() {
     return (
-        <section className="section-container services">
+        <section id="services" className="section-container services">
             <ServicesTitle
                 title="Services"
                 content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat, maiores!"
