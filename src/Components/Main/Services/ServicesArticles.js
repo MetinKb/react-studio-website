@@ -7,17 +7,17 @@ const articleData = [
     {
         icon: <Cart />,
         title: "Yoğun Talep",
-        content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi maxime impedit ad culpa pariatur! Mollitia modi hic ea doloribus molestiae. Distinctio consequuntur dolore odit expedita aliquid assumenda quam quos voluptatum."
+        content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi maxime impedit ad culpa pariatur! Mollitia modi hic ea doloribus molestiae."
     },
     {
         icon: <Laptop />,
         title: "Responsive Tasarım",
-        content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi maxime impedit ad culpa pariatur! Mollitia modi hic ea doloribus molestiae. Distinctio consequuntur dolore odit expedita aliquid assumenda quam quos voluptatum."
+        content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi maxime impedit ad culpa pariatur! Mollitia modi hic ea doloribus molestiae."
     },
     {
         icon: <Shield />,
         title: "Web Güvenliği",
-        content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi maxime impedit ad culpa pariatur! Mollitia modi hic ea doloribus molestiae. Distinctio consequuntur dolore odit expedita aliquid assumenda quam quos voluptatum."
+        content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi maxime impedit ad culpa pariatur! Mollitia modi hic ea doloribus molestiae."
     }
 ]
 
